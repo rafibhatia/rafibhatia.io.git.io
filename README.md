@@ -1,1 +1,192 @@
 # rafibhatia.io.git.io
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    justify-content:space-around ;
+    font-style: normal;
+    background-color:  #1f2937;
+    color: #f9faf8;
+    height: 50px; 
+    align-items: center;
+    
+}
+.logo{
+    font-size: 44px;
+    color: #f9faf8;
+    text-align: center;
+
+   
+}
+.rightlinks{
+    font-size: 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex: 1;
+    align-items: center;
+}
+.mainpart{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: #1f2937;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.right{
+    background-color: #1f2937;
+    flex-direction: column;
+    display: flex;
+    color: aliceblue;
+    align-content: end;
+  flex: 1;
+}
+.image{
+    height: 240px;
+    width: 340px;
+    justify-content: center;
+    background-color: gray;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-left: 290px;
+    margin-right: 270px;    
+    
+}
+button{
+    width: 50px;
+    height: 35px;
+    background-color: blue;
+    align-items: center;
+    border-radius: 15px;
+    border-style: none;
+}
+.appleisbetterthensamsung{
+    font-size: 1000px;
+
+}
+.texttwo{
+font-style: calc(5px);
+font-size: 48;
+text-align: center;
+line-height: 3.0;
+color: #000;
+}
+.rightsite{
+    flex: 1;
+}
+.text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 40px;
+    margin-top: 15px;
+}
+
+.img{
+   
+    width: 100px;
+    height: 100px;
+    border: solid 1px blue;
+    border-radius: 15px;
+    justify-content: center;
+   
+}
+
+.miantwo{
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+}
+.infotwo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+    padding: 75px;
+}
+.imgtext{
+    width: 102px;
+    text-align: center;
+}
+.textholder{
+    height: 300px;
+    background-color: gray;
+display: flex;
+justify-items: center;
+align-items: center; justify-content: center;
+align-items: center;
+}
+.message{
+    font-size: 25px;
+   display: flex;
+    width: 500px;
+   
+    color: black;
+}
+.anti{
+    font-weight: 100;
+    margin-top: 100px;
+}
+.mainthree{
+    background-color: white;
+    display: flex;
+   padding: 50px;
+    justify-content: center;
+  align-items: center;
+}
+.blue{
+  display: flex;
+  flex-direction: column;
+   height: 120px;
+   width: 770px;
+  background-color: #3882f6;
+  border-radius: 10px;
+  padding: 12px;
+  display: inline-block;
+  margin: 15px auto;
+}
+.textone{
+    color: aliceblue;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+.stupidsamsung{
+    background-color: #3882f6;
+    margin-left: 350px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-bottom: 46px;
+    cursor: pointer;
+    text-decoration: none;
+display: inline-block;
+padding: 8px 16px;
+font-size: 16px;
+color: #000;
+font-style: normal;
+font-weight: 700;
+
+
+}
+.footer{
+    
+    background-color: #1f2937;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.textend{
+    color: #f9faf8;
+}
+.left{
+    flex: 1;
+}
